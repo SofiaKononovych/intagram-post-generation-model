@@ -11,9 +11,7 @@ Generate a new token with some name of type Read and !save! it somewhere
 
 Open this notebook in Google Colab
 
-Go to Secrets/Add new secret
-
-In the Name section, write HF_TOKEN, and in the Value – paste previously generated token
+Go to variable HF_TOKEN, and pass your generated token as its value
 
 Grant access to this notebook by swiping the corresponding Notebook access slider
 
